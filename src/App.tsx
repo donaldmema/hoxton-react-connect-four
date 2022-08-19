@@ -12,6 +12,8 @@ function App() {
     [0, 0, 0, 0, 0, 0, 0],
   ]);
 
+ 
+
   return (
     <div className="App">
       <Table body={board} />

@@ -15,4 +15,17 @@ button {
 
 table {
   background-color: royalblue;
+  border-radius: 20px;
+}
+
+.tile {
+  width: 60px;
+  height: 60px;
+  border: 3px solid rgb(23, 64, 185);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.tile.gamer1 {
+  background-color: red;
 }
